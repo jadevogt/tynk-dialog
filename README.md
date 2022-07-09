@@ -29,3 +29,10 @@ This is an early development version of a tool that can be used to create, edit,
   * Preview text colors and animations
   * Drag and drop capability for rearranging dialog
   * Preview dialog in styled textbox without opening GameMaker?
+
+## Build instructions
+- Make sure you have Python 3.10 or later
+- Run `git clone https://github.com/jadevogt/tynk-dialog.git`
+- `cd` into `tynk-dialog`
+- Run `python3 -m pip install .` to install the package
+- Test the built module by running `python3 -m tynk_dialog`
