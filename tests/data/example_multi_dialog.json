@@ -1,0 +1,33 @@
+[
+	{
+		"title": "added_dialog1",
+		"contents": [
+			{
+				"textbox": "tynk",
+				"txt": "blah blah blah",
+				"speaker": "Tynk",
+				"blip": -1,
+				"canSkip": true
+			}
+		]
+	},
+	{
+		"title": "added_dialog2",
+		"contents": [
+			{
+				"textbox": "tynk",
+				"txt": "blah blah blah",
+				"speaker": "Tynk",
+				"blip": -1,
+				"canSkip": true
+			},
+			{
+				"textbox": "tynk",
+				"txt": "blah blah blah 2",
+				"speaker": "Tynk",
+				"blip": -1,
+				"canSkip": true
+			}
+		]
+	}
+]

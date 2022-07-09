@@ -1,0 +1,14 @@
+[
+	{
+		"title": "added_dialog",
+		"contents": [ 
+			{ 
+				"textbox": "tynk",
+				"txt": "I'm new dialog aren't I? Hohoh",
+				"speaker": "Tynk",
+				"blip": -1,
+				"canSkip": true 
+			}
+		]
+	}
+] 
